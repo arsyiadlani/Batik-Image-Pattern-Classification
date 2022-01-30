@@ -16,8 +16,8 @@ In the classification experiment using Inceptionv3 model, it was found that test
 
 ## D. Appendix
 - a-train.py: Train the model with training_files_A using standard InceptionV3 model architecture
-- a-action.py: Tests the results of the trained model with test_files using standard InceptionV3 model architecture
-- b-train.py: Trains the model with training_files_B using standard InceptionV3 model architecture
-- b-action.py: Tests the results of the trained model with test_files using standard InceptionV3 model architecture
+- a-action.py: Test the results of the trained model with test_files using standard InceptionV3 model architecture
+- b-train.py: Train the model with training_files_B using standard InceptionV3 model architecture
+- b-action.py: Test the results of the trained model with test_files using standard InceptionV3 model architecture
 - c-train.py: Train the model with training_files_B using self-built CNN model architecture
-- c-action.py: Tests the results of the trained model with test_files using self-built CNN model architecture
+- c-action.py: Test the results of the trained model with test_files using self-built CNN model architecture
